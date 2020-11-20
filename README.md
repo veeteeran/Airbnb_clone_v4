@@ -158,9 +158,13 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-Jill Rogers - [Github](https://github.com/Jilroge7) / [Twitter](https://twitter.com/JilRoge7)
-Viet Tran - [Github](https://github.com/veeteeran) / [Twitter](https://twitter.com/veeteeran)
 
 Second part of Airbnb: Joann Vuong
+
+V4 of Airbnb clone:
+
+Jill Rogers - [Github](https://github.com/Jilroge7) / [Twitter](https://twitter.com/JilRoge7)
+
+Viet Tran - [Github](https://github.com/veeteeran) / [Twitter](https://twitter.com/veeteeran)
 ## License
 Public Domain. No copy write protection. 
